@@ -2,6 +2,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 def add(x,y)
 =======
 def add(x,y):
@@ -15,7 +16,15 @@ def add(x,y):
 =======
 def add(x,y):
 >>>>>>> Stashed changes
+:diffg LO 
     return x+y;
+||||||| merged common ancestors
+def add(x,y)
+    pass
+=======
+def add(x,y):
+    return x+y;
+>>>>>>> Stashed changes
 
 def multiply(x,y):
     pass
@@ -23,6 +32,7 @@ def multiply(x,y):
 def divide(x,y):
     pass
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -41,3 +51,10 @@ def subtract(x,y):
 def subtract(x,y):
 >>>>>>> Stashed changes
     pass 
+||||||| merged common ancestors
+def subtract(x,y)
+    pass
+=======
+def subtract(x,y):
+    pass 
+>>>>>>> Stashed changes
