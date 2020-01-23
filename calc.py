@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 def add(x,y)
+=======
+def add(x,y):
+>>>>>>> Stashed changes
 =======
 def add(x,y):
 >>>>>>> Stashed changes
@@ -17,7 +21,11 @@ def divide(x,y):
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 def subtract(x,y)
+=======
+def subtract(x,y):
+>>>>>>> Stashed changes
 =======
 def subtract(x,y):
 >>>>>>> Stashed changes
