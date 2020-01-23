@@ -7,5 +7,16 @@ def multiply(x,y):
 def divide(x,y):
     pass
 
+<<<<<<< Updated upstream
+
 def subtract(x,y):
     pass 
+def subtract(x,y)
+    pass
+||||||| merged common ancestors
+def subtract(x,y)
+    pass
+=======
+def subtract(x,y):
+    pass 
+>>>>>>> Stashed changes
